@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 729c0b96966951f4596467b77c8e1c7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Scripts/Core/WaterSystemPartial_CommonLogic.cs
+  uploadId: 952086

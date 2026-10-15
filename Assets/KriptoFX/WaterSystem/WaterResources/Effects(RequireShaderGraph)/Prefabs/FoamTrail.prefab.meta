@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45f6338f839c94849ba9dfc1fbc1ed0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Effects(RequireShaderGraph)/Prefabs/FoamTrail.prefab
+  uploadId: 952086

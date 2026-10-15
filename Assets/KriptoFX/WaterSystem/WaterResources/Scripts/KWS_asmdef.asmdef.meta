@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7631be9b1158d34f94c8a3925ae5c57
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Scripts/KWS_asmdef.asmdef
+  uploadId: 952086

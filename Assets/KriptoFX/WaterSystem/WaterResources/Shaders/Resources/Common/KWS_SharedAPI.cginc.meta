@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ca173faf6860884da299939743b863e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Shaders/Resources/Common/KWS_SharedAPI.cginc
+  uploadId: 952086

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ad2f201013106543a596fd0d5237103
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Effects(RequireShaderGraph)/Prefabs/Decal_Blood.prefab
+  uploadId: 952086

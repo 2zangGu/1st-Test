@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 67f7d70a80bab19478934c54ec1f553a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Resources/ComputeBuffers/ComputeFoamDataOffset0.kwsComputeBuffer
+  uploadId: 952086

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 51684b11747c07046a7b4bc76d045c08
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Shaders/Resources/Common/KWS_CommonHelpers.cginc
+  uploadId: 952086

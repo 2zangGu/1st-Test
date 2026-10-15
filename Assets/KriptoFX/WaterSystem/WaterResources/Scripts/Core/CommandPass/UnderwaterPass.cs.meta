@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7bfe51c83c9ab541bce555b79990cbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Scripts/Core/CommandPass/UnderwaterPass.cs
+  uploadId: 952086

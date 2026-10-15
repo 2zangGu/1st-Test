@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a279222207d2ff1418a31b2631fc8b1b
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Shaders/Resources/Common/CommandPass/KWS_BuoyancyPass_HeightReaback.compute
+  uploadId: 952086

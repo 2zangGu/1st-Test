@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a94fc9c1e2f165645912b9394aa67587
+ComputeShaderImporter:
+  externalObjects: {}
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Shaders/Resources/Common/CommandPass/KWS_WavesSpectrum.compute
+  uploadId: 952086

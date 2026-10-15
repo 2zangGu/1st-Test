@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a94426699d429284198b0727eeb1c6c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Effects(RequireShaderGraph)/EffectResources/DecalFoamBubbles.mat
+  uploadId: 952086

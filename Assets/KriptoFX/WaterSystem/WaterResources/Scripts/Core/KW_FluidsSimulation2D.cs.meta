@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ddc75d5823affc3479e54cff125ec966
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Scripts/Core/KW_FluidsSimulation2D.cs
+  uploadId: 952086

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 799d4e6915505aa4cb69be654b5102ca
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Shaders/Resources/Common/CommandPass/KWS_VolumetricLight_Common.cginc
+  uploadId: 952086

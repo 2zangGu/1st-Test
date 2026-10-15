@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7cc3facc46e6f54cb3455b49f38085a
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Shaders/Resources/Common/KWS_WaterVolumeVariables.hlsl
+  uploadId: 952086

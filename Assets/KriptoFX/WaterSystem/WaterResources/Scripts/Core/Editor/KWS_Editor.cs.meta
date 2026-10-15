@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b921f80c60cddab47ba7661b1553b3c7
+timeCreated: 1562374245
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Scripts/Core/Editor/KWS_Editor.cs
+  uploadId: 952086

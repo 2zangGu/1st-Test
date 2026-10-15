@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b74fa97d4099b042871ab6fc66b4934
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203144
+  packageName: KWS Water System (URP Rendering)
+  packageVersion: 1.5.12
+  assetPath: Assets/KriptoFX/WaterSystem/WaterResources/Effects(RequireShaderGraph)/EffectResources/DecalBlood.mat
+  uploadId: 952086
